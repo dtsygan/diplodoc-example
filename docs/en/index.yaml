@@ -6,5 +6,7 @@ links:
     href: page.md
   - title: YFM Structure on index page
     href: anotherpage.md
+  - title: Quick start 3
+    href: quickstart3.md
   - title: Sub-section on index page
     href: sub-section/
