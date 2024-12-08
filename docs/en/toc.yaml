@@ -9,6 +9,8 @@ items:
     href: anotherpage.md
   - name: Quick start 3 
     href: quickstart3.md
+  - name: Links 
+    href: links.md
   - name: Sub-Section 
     include:
       path: sub-section/toc.yaml
