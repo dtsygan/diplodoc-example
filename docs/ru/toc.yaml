@@ -1,0 +1,7 @@
+title: Документация ITSM 365.Support New
+href: index.yaml
+items: 
+  - name: Заявки
+    include:
+      path: requests/index.md
+      mode: link
