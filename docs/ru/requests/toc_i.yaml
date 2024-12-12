@@ -1,0 +1,11 @@
+items:
+- name: Регистрация заявки
+  href: registration.md
+- name: Список заявок и карточка заявки
+  href: list-card.md
+- name: Прием и классификация заявки
+  href: reception-classification.md
+- name: Выполнение заявки
+  href: in-progress.md
+- name: Закрытие заявки
+  href: closing.md
