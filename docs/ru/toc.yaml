@@ -6,3 +6,8 @@ items:
   include:
     mode: link
     path: requests/toc_i.yaml
+- name: Каталог услуг и договоры
+  href: service-catalog/index.md
+  include:
+    mode: link
+    path: service-catalog/toc_i.yaml
