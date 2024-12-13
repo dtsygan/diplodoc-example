@@ -1,7 +1,5 @@
 items:
-- name: Работа над изменениями
-  href: suggest-change.md
-- name: Сборка и тесты Ya
-  href: build-ya.md
-- name: Релизы
-  href: manage-releases.md
+- name: Услуга
+  href: service.md
+- name: Договор
+  href: agreement.md
